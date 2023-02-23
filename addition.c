@@ -6,3 +6,4 @@ c=a+b;
 printf("%d",c);
 }
 done by nikhil
+hi monu
